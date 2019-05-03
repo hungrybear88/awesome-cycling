@@ -2,6 +2,8 @@
 > A curated list of resources for cyclists and bike-packers
 
 ## Website
+* [road.cc](https://www.road.cc/)
+
 
 ### 🍻 Social
 * [Strava](https://strava.com)
@@ -37,6 +39,8 @@
 * [Performance Bike](www.performancebike.com/)
 * [Cycling Express](www.cyclingexpress.com/)
 * [Bike-Discount](https://www.bike-discount.de/)
+* [Bikeinn](https://www.bikeinn.com/)
+
 
 ### 📑 Blog & Review
 * [DC Rainmaker](https://www.dcrainmaker.com/)
