@@ -3,7 +3,7 @@
 
 ## Website
 * [road.cc](https://www.road.cc/)
-* [inner ring] (http://inrng.com/)
+* [inner ring](http://inrng.com/)
 
 
 ### 🍻 Social
