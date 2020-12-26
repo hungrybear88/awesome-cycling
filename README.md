@@ -34,13 +34,16 @@
 * [Chainreaction](http://www.chainreactioncycles.com/)
 * [Wiggle](http://wiggle.com)
 * [Competitive Cyclist](https://www.competitivecyclist.com/)
-* [Bike Bug](www.bikebug.com/)
+* [Bike Bug](https://www.bikebug.com/)
 * [Bike24](https://www.bike24.com/)
 * [Raycycles](https://www.racycles.com/)
-* [Performance Bike](www.performancebike.com/)
-* [Cycling Express](www.cyclingexpress.com/)
+* [Performance Bike](https://www.performancebike.com/)
+* [Cycling Express](https://www.cyclingexpress.com/)
 * [Bike-Discount](https://www.bike-discount.de/)
 * [Bikeinn](https://www.bikeinn.com/)
+* [Pro Bike Kit](https://www.probikekit.com/)
+* [Pro Cycling Kit](https://procyclingoutlet.com/)
+* [Pro Owned Cycling](https://proownedcycling.com/)
 
 
 ### 📑 Blog & Review
